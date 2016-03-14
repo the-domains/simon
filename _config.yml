@@ -1,0 +1,28 @@
+name: Simon
+favicon: null
+layout_spectrum: 0.681593643501401
+typography_spectrum: 0.9049871226307005
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.04038611240684986
+  lightness: 0.20583771890960634
+  saturation: 0.05039727338589728
+  rhythmicContrast: 0.4895592089742422
+purpose: []
